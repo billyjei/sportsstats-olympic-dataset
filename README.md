@@ -8,15 +8,8 @@ SportsStats is a sports analysis firm partnering with local news and elite perso
 
 ## Project Overview
 
-As a junior data analyst on Cyclistic's marketing analytics team, I have been tasked with conducting a comprehensive data analysis to provide insights and recommendations to the executives. This analysis involves exploring, processing, and analyzing relevant data to make data-driven decisions.
+The project aims to analyze the SportsStats dataset to extract meaningful insights that can benefit SportsStats' partners, including local news outlets and personal trainers. The audience interested in my findings includes trends in different countries and sports events insights from the data.
 
 ## Case Study Report
 
 You can find the detailed report on my data analysis process in the [capstone_project_cyclistic.ipynb](capstone_project_cyclistic.ipynb) file above.
-
-## Case Study Visuals
-
-I have also created interactive visuals based on the analysis, which are available on Tableau. You can access and explore these visuals [here](https://public.tableau.com/app/profile/billy.jehan/viz/CyclisticsDataTrip/Dashboard).
-
-## Key Findings Presentation with Stakeholders
-The presentation outlining the key findings from the analysis, which I share with stakeholders, is accessible at the following [link](https://youtu.be/8H5RSOqf2ew).

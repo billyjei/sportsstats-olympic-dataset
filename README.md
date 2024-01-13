@@ -12,4 +12,4 @@ The project aims to analyze the SportsStats dataset to extract meaningful insigh
 
 ## Case Study Report
 
-You can find the detailed report on my data analysis process in the [capstone_project_cyclistic.ipynb](capstone_project_cyclistic.ipynb) file above.
+You can find the detailed report on my data analysis process in the [sportsstats_olympic_dataset.ipynb](sportsstats_olympic_dataset.ipynb) file above.

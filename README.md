@@ -1,10 +1,10 @@
 # Sportstats-Olympic-Dataset
 
-This is a case study completed as part of the Google Data Analytics Professional Certificate capstone project.
+This is a case study completed as part of the SQL for Data Science Capstone Project.
 
-## About Cyclistic
+## About Sportstats
 
-Cyclistic is a fictional bike-sharing company operating in Chicago. The company's executive team is focused on driving growth and is exploring strategies to convert a significant number of casual riders into members.
+SportsStats is a sports analysis firm partnering with local news and elite personal trainers to provide “interesting” insights to help their partners.  Insights could be patterns/trends highlighting certain groups/events/countries, etc. for the purpose of developing a news story or discovering key health insights.
 
 ## Project Overview
 

@@ -14,7 +14,7 @@ The project aims to analyze the SportsStats dataset to extract meaningful insigh
 
 You can find the detailed report on my data analysis process in the [sportsstats_olympic_dataset.ipynb](sportsstats_olympic_dataset.ipynb) file above.
 
-##
+## Key Findings Presentation
 
-This is the link for my Final Capstone SQL Project (I am using Google Slide). Please click the link and review it
-https://docs.google.com/presentation/d/1X7A1bLHMLkC_4kgaIA2DTSlfIWPdq_bcisdCnRIn5Bo/edit?usp=sharing
+The presentation slides outlining the key findings from the analysis, is accessible at the following [link](
+https://docs.google.com/presentation/d/1X7A1bLHMLkC_4kgaIA2DTSlfIWPdq_bcisdCnRIn5Bo/edit?usp=sharing).

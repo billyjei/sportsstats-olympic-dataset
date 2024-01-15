@@ -1,4 +1,4 @@
-# Sportstats-Olympic-Dataset
+# Sportsstats-Olympic-Dataset
 
 This is a case study completed as part of the SQL for Data Science Capstone Project.
 

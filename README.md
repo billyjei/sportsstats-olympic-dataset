@@ -16,5 +16,5 @@ You can find the detailed report on my data analysis process in the [sportsstats
 
 ## Key Findings Presentation
 
-The presentation slides outlining the key findings from the analysis, is accessible at the following [link](
+The presentation slides outlining the key findings from the analysis is accessible at the following [link](
 https://docs.google.com/presentation/d/1X7A1bLHMLkC_4kgaIA2DTSlfIWPdq_bcisdCnRIn5Bo/edit?usp=sharing).
